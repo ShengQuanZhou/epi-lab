@@ -1,7 +1,7 @@
 #!/usr/bin/anaconda3/bin/python
 
 """
-Created on Tue Aug 24 22:36:00 2016
+Created on Aug 24 22:36 2016
 
 An implementation of binary tree
 
