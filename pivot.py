@@ -2,7 +2,7 @@
 
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 25 22:54 2016
+Created on Aug 25 22:54 2016
 
 Pivot an array A by an index i such that
 all elements less than A[i] appears first,
